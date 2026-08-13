@@ -146,10 +146,7 @@ I enjoy working across the entire software lifecycle—from architecture and bac
 - Test-Driven Development (TDD)
 - Clean Code
 - Design Patterns
-- API-First Development
 - Observability
-- Infrastructure as Code
-- Automation First
 
 ---
 
