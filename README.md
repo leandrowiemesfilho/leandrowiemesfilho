@@ -157,7 +157,6 @@ I enjoy working across the entire software lifecycle—from architecture and bac
 - Kubernetes Ecosystem
 - Cloud Architecture
 - Distributed Event Streaming
-- Developer Experience (DX)
 
 ---
 
