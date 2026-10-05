@@ -164,8 +164,6 @@ I enjoy working across the entire software lifecycle—from architecture and bac
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=leandrowiemesfilho&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=leandrowiemesfilho&theme=tokyonight&hide_border=true&exclude_days=Sun%2CSat)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrowiemesfilho&layout=compact&theme=tokyonight&hide_border=true)
